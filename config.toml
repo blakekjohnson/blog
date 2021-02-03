@@ -1,3 +1,32 @@
-baseURL = "http://example.org/"
+# Basic Config
+baseURL = "https://blog.blakekjohnson.dev/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blake K Johnson"
+theme = "ezhil"
+
+# Enable syntax highlighting
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# Disqus
+disqusShortname = "blakekjohnson-dev-blog"
+
+# Summary Config
+summaryLength = 40
+
+[params]
+	subtitle = "Software Engineer, Student, Music Enjoyer"
+	mainSections = ["posts"]
+	featherIconsCDN = true
+	disableDisqusTypes = ["page"]
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/blakekjohnson"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/blakekjohnson"
