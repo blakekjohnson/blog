@@ -9,9 +9,6 @@ pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# Disqus
-disqusShortname = "blakekjohnson-dev-blog"
-
 # Summary Config
 summaryLength = 40
 
@@ -19,7 +16,6 @@ summaryLength = 40
 	subtitle = "Software Engineer, Student, Music Enjoyer"
 	mainSections = ["posts"]
 	featherIconsCDN = true
-	disableDisqusTypes = ["page"]
 
 [[menu.main]]
 name = "Home"
