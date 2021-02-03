@@ -2,7 +2,7 @@
 baseURL = "https://blog.blakekjohnson.dev/"
 languageCode = "en-us"
 title = "Blake K Johnson"
-theme = "ezhil"
+theme = "hugo-ink"
 
 # Enable syntax highlighting
 pygmentsstyle = "solarized-dark"
