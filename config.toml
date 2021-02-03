@@ -21,6 +21,21 @@ summaryLength = 40
 	featherIconsCDN = true
 	disableDisqusTypes = ["page"]
 
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Topics"
+url = "/topics"
+weight = 3
+
 [[params.social]]
 name = "Github"
 icon = "github"
@@ -30,3 +45,6 @@ url = "https://github.com/blakekjohnson"
 name = "LinkedIn"
 icon = "linkedin"
 url = "https://linkedin.com/in/blakekjohnson"
+
+[taxonomies]
+	topic = "topics"
