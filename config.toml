@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 summaryLength = 40
 
 [params]
-	subtitle = "Software Engineer, Student, Music Enjoyer"
+	subtitle = "Software Engineer"
 	mainSections = ["posts"]
 	featherIconsCDN = true
 
