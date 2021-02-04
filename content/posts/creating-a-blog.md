@@ -3,7 +3,6 @@ title: "How and Why I Created a Blog"
 date: 2021-02-03
 description: "A brief telling of how and why I created this blog."
 tags: [ hugo ]
-draft: true
 ---
 
 ### Why I created a blog.
@@ -15,4 +14,9 @@ or been seen by the public. A blog will allow for me to reflect on and showcase 
 that I have worked on, while also serving as a project of it's own.
 
 ### How I created a blog.
+When searching for systems for creating a blog I considered using some form of CMS but eventually
+opted for a static site generator. In the end I ended up choosing Hugo as the platform for
+creating the website. After a bit of searching I opted for the Hugo-Ink theme. 10/10 would
+recommend using Hugo for making a pretty simple blog website.
 
+I could go more in-depth regarding how I setup everything but I don't think that's necessary.
