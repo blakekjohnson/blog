@@ -3,7 +3,6 @@ title: "The Ace Hardware Coin Tracker"
 date: 2021-02-05
 description: "A overview of a coin tracker I made over the course of slow days at Ace Hardware."
 tags: [ misc ]
-draft: true
 ---
 
 ### Why make a coin tracker?
@@ -38,5 +37,15 @@ possibilities.
 Given SSH capabilities I was able to connect to CS @ Purdue's Linux systems to handle development
 and execution. In the past I've developed applications in Java, C/C++, Python, JavaScript, and
 BASH on these systems so I had plenty of options in regards to language. I decided that I wanted
-the application to be fast, simple, easy to read, and easy to iterate on. With all of these in mind
-I ended up going with C for the language I'd develop in.
+the application to be fast, simple, easy to read, and easy to iterate on. With all of these things
+in mind I ended up going with C for the language I'd develop in.
+
+The program I ended up making was fairly simple. An executable is ran with arguments letting you
+add or subtract coins from their respective counters. A file is written to and read from that
+maintains the counters for each coin. Again, a fairly simple program.
+
+### Was it worth it?
+I'd definitely say that making this coin tracker was worth it. It served as a way to pass the time
+during a time when I didn't have much else to do. Gave me some well needed study opportunities and
+at the same time allowed for me to make something useful in my day-to-day life. As time goes on I'm
+sure I'll continue to update the tracker as needs continue to change.
